@@ -21,12 +21,12 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://coding.net/u/wintelsui/p/WTDeviceInfo'
+  s.homepage         = 'https://github.com/wintelsui/WTDeviceInfo'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wintelsui' => 'wintelsui@hotmail.com' }
-  s.source           = { :git => 'https://git.coding.net/wintelsui/WTDeviceInfo.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/wintelsui/WTDeviceInfo.git', :tag => s.version.to_s }
+  # s.social_media_url = 'https://twitter.com/wintelsui'
 
   s.ios.deployment_target = '8.0'
 
