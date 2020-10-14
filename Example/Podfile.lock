@@ -1,5 +1,5 @@
 PODS:
-  - WTDeviceInfo (0.1.0)
+  - WTDeviceInfo (0.1.1)
 
 DEPENDENCIES:
   - WTDeviceInfo (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  WTDeviceInfo: 7b194782bd3d913ebc8de27d601647ea71cf376a
+  WTDeviceInfo: 7645bde20431acb1777cc7da9f6fd44069cfad99
 
 PODFILE CHECKSUM: 1a8d4d6c66dd114240517edbe708e5b4848c3ffb
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.9.3
